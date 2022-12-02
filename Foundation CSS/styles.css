@@ -1,0 +1,15 @@
+body{
+    font-family: 'Questrial', sans-serif;
+}
+
+h1,h2{
+    font-family: 'Archivo Black', sans-serif;
+}
+
+img{
+    border-radius: 5%;
+    filter: drop-shadow(10px 10px 10px rgb(201, 201, 201));
+}
+strong{
+    font-weight: 900;
+}
